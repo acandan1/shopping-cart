@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 55px;
+    font-weight: bold;
+    padding: 50px;
+    background-color: inherit;
+}
+
+
+#cart-logo {
+    height: 125px;
+    position: relative;
+    bottom: 20px;
+}
+
+#item-count {
+    position: relative;
+    bottom: 80px;
+    margin-left: 10px;
+    max-height: 50px;  
+}
+
+#cart-bar {
+   max-height: 58px;
+   color: inherit;
+   text-decoration: none;
+
+   display: flex;
+   height: fit-content;
+   margin-bottom: 0;
+}
+
+nav.header div {
+    cursor: pointer;
+}
+
+nav.header div:hover {
+    color: #111;
+    transform: scale(1.4);
+    text-shadow: none;
+}

@@ -1,0 +1,29 @@
+
+
+#checkout {
+    position: fixed;
+    height: 150px;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgb(147, 223, 238);
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#total-price {
+    align-self: center;
+    font-size: 40px;
+}
+
+#checkout-btn {
+    align-self: center;
+    padding: 20px;
+    font: inherit;
+    font-size: 40px;
+}
+
+.cart-items {
+    display: flex;
+    flex-direction: column;
+}
