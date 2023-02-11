@@ -21,7 +21,7 @@ const RouteSwitch = (props) => {
     };
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="#">
             <Routes>
                 <Route path="/" element = { <Home items = {items}/> }/>
                 <Route path="/shop">
