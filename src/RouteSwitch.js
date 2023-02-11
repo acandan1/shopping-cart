@@ -9,8 +9,8 @@ import GameDisplay from "./components/GameDisplay";
 const RouteSwitch = (props) => {
     const [items, setItems] = useState(new Map());
 
-    const itemsUpdater = (id, price, amount=1) => {
-        setItems(new Map(items.set(id, [amount, price])));
+    const itemsUpdater = (id, price, img, amount=1) => {
+        setItems(new Map(items.set(id, [amount, price, img])));
         console.log(items);
     };
 

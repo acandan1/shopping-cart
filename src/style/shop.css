@@ -69,3 +69,18 @@
     color: green;
     background-color: white;
 }
+
+.product-things {
+    gap: 50px;
+    margin-left: 250px;
+    margin-right: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-weight:lighter;
+    line-height: 70px;
+    font-size: 25px;
+}

@@ -12,18 +12,21 @@ const GameDisplay = (props) => {
     });
 
     const addGameToItems = () => {
-        props.itemsUpdater(pro.altAttribute.toUpperCase(), +pro.price.slice(1));
+        props.itemsUpdater(pro.altAttribute.toUpperCase(), +pro.price.slice(1), pro.imgLink);
         navigate('/cart');
     }
 
     return (
         <div className="product">
             <Header size={ props.items.size }/>
-            <div className="info">
-                <h1 className="product-title">{pro.altAttribute.toUpperCase()}</h1>
-                <img className="product-image" src={ pro.imgLink } alt={ pro.altAttribute }/>
-                <h1 className="product-price">{pro.price}</h1>
-                <button id="add-cart" onClick={ addGameToItems }>Add to Cart!</button>
+            <div className="product-things">
+                <div className="info">
+                    <h1 className="product-title">{pro.altAttribute.toUpperCase()}</h1>
+                    <img className="product-image" src={ pro.imgLink } alt={ pro.altAttribute }/>
+                    <h1 className="product-price">{pro.price}</h1>
+                    <button id="add-cart" onClick={ addGameToItems }>Add to Cart!</button>
+                </div>
+                <p> {pro.description} </p>
             </div>
         </div>
     );
