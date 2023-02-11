@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.518597a3.css",
-    "main.js": "/my-app/static/js/main.ea40254b.js",
-    "static/media/rdr2.png": "/my-app/static/media/rdr2.41e8c6ff28aa61f0bb72.png",
-    "static/media/spiderman.png": "/my-app/static/media/spiderman.fc5ff2b592b0eabd52bc.png",
-    "static/media/got.png": "/my-app/static/media/got.d4bab3eb2f56cbf6e831.png",
-    "static/media/god.jpg": "/my-app/static/media/god.e2ad8a704a394c199e45.jpg",
-    "static/media/life.png": "/my-app/static/media/life.1a565665b161eec74a9e.png",
-    "static/media/uncharted.jpg": "/my-app/static/media/uncharted.97234758ddd3f5eeaf35.jpg",
-    "static/media/gow.jpg": "/my-app/static/media/gow.411f71709468e7e916f4.jpg",
-    "static/media/detroit.jpg": "/my-app/static/media/detroit.2e5979db83f62d19dee1.jpg",
-    "static/media/2077.jpg": "/my-app/static/media/2077.2e59850bb06886d32b6b.jpg",
-    "static/media/ud.jpg": "/my-app/static/media/ud.807784aeca0bcc527fa3.jpg",
-    "static/media/last.jpg": "/my-app/static/media/last.ac31908f3516db7b2337.jpg",
-    "static/media/gta.jpg": "/my-app/static/media/gta.661114d8c52ed0bfcb33.jpg",
-    "static/media/witcher.jpg": "/my-app/static/media/witcher.c06753721fc8ecbbcc75.jpg",
-    "index.html": "/my-app/index.html",
-    "static/media/cart.svg": "/my-app/static/media/cart.7228f8eb0e0a82517dccb1fddecf676a.svg",
-    "main.518597a3.css.map": "/my-app/static/css/main.518597a3.css.map",
-    "main.ea40254b.js.map": "/my-app/static/js/main.ea40254b.js.map"
+    "main.css": "/shopping-cart/static/css/main.fdc57118.css",
+    "main.js": "/shopping-cart/static/js/main.8ecb9b4c.js",
+    "static/media/rdr2.png": "/shopping-cart/static/media/rdr2.41e8c6ff28aa61f0bb72.png",
+    "static/media/spiderman.png": "/shopping-cart/static/media/spiderman.fc5ff2b592b0eabd52bc.png",
+    "static/media/got.png": "/shopping-cart/static/media/got.d4bab3eb2f56cbf6e831.png",
+    "static/media/god.jpg": "/shopping-cart/static/media/god.e2ad8a704a394c199e45.jpg",
+    "static/media/life.png": "/shopping-cart/static/media/life.1a565665b161eec74a9e.png",
+    "static/media/uncharted.jpg": "/shopping-cart/static/media/uncharted.97234758ddd3f5eeaf35.jpg",
+    "static/media/gow.jpg": "/shopping-cart/static/media/gow.411f71709468e7e916f4.jpg",
+    "static/media/detroit.jpg": "/shopping-cart/static/media/detroit.2e5979db83f62d19dee1.jpg",
+    "static/media/2077.jpg": "/shopping-cart/static/media/2077.2e59850bb06886d32b6b.jpg",
+    "static/media/ud.jpg": "/shopping-cart/static/media/ud.807784aeca0bcc527fa3.jpg",
+    "static/media/last.jpg": "/shopping-cart/static/media/last.ac31908f3516db7b2337.jpg",
+    "static/media/gta.jpg": "/shopping-cart/static/media/gta.661114d8c52ed0bfcb33.jpg",
+    "static/media/witcher.jpg": "/shopping-cart/static/media/witcher.c06753721fc8ecbbcc75.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "static/media/cart.svg": "/shopping-cart/static/media/cart.7228f8eb0e0a82517dccb1fddecf676a.svg",
+    "main.fdc57118.css.map": "/shopping-cart/static/css/main.fdc57118.css.map",
+    "main.8ecb9b4c.js.map": "/shopping-cart/static/js/main.8ecb9b4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.518597a3.css",
-    "static/js/main.ea40254b.js"
+    "static/css/main.fdc57118.css",
+    "static/js/main.8ecb9b4c.js"
   ]
 }
